@@ -1,0 +1,36 @@
+{
+  "name": "portfolio-game",
+  "version": "1.0.0",
+  "description": "Interactive pixel-art farming portfolio website",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "type-check": "tsc --noEmit"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "next": "^15.0.0",
+    "typescript": "^5.3.3",
+    "tailwindcss": "^3.4.0",
+    "postcss": "^8.4.31",
+    "autoprefixer": "^10.4.16",
+    "framer-motion": "^10.16.4",
+    "gsap": "^3.12.2",
+    "lenis": "^1.0.29",
+    "lucide-react": "^0.292.0",
+    "zustand": "^4.4.7",
+    "howler": "^2.2.4",
+    "be-vietnam-pro": "^0.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.5",
+    "@types/react": "^18.2.45",
+    "@types/react-dom": "^18.2.18",
+    "@types/howler": "^2.2.8",
+    "@types/gsap": "^3.12.2"
+  }
+}
